@@ -62,6 +62,6 @@ The project facilitates making predictions on sample videos, showcasing the mode
 
 In conclusion, the Lip Reading with CNN and TensorFlow project demonstrates the powerful combination of computer vision and deep learning for deciphering spoken words through lip movements. The inclusion of CNNs, Bidirectional LSTMs, and thoughtful data preprocessing contributes to the model's accuracy in capturing both spatial and temporal aspects of lip reading.
 
-Feel free to explore, customize, and adapt the project based on your specific requirements. Contributions, issues, and feedback are welcome, and you can refer to the [GitHub repository](https://github.com/your-username/your-repository) for more details.
+Feel free to explore, customize, and adapt the project based on your specific requirements. Contributions, issues, and feedback are welcome, and you can refer to the [GitHub repository](https://github.com/aditbala99/Lip-reading-using-tensorflow/) for more details.
 
 Happy lip reading!
